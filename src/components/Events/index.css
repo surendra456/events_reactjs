@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.event-container {
+  display: flex;
+  flex-direction: row;
+}
+.event-item-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #64748b;
+  width: 100vh;
+  margin: 0px;
+  padding: 20px;
+}
+.event-item {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.title {
+  margin-left: 68px;
+  font-family: 'roboto';
+  color: #ffffff;
+}
+
+
